@@ -37,7 +37,7 @@
                         >
                             Log in
                         </a>
-
+                        <a href="#">hola</a>
                         @if (Route::has('register'))
                             <a
                                 href="{{ route('register') }}"
